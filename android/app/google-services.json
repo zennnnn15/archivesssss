@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436286711639",
+    "project_id": "rchive-d1f7a",
+    "storage_bucket": "rchive-d1f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436286711639:android:d9a8e3e147f1992b9b8012",
+        "android_client_info": {
+          "package_name": "com.example.archives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436286711639-f3gsp4na3pm3dn3ug63farjdjldvho6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxIFs6zlm_wTKxBAY1hUvSXNbQb-BcC2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436286711639-f3gsp4na3pm3dn3ug63farjdjldvho6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
